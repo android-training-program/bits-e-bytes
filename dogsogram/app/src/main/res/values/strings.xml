@@ -1,0 +1,25 @@
+<resources>
+  <!--<string name="app_name">DogsO\'gram</string>-->
+  <string name="app_name">ATP</string>
+
+  <string name="stories">Stories</string>
+  <string name="watch_all">Watch All</string>
+
+  <!-- Action bar -->
+  <string name="action_camera">Open camera</string>
+  <string name="action_live">Live</string>
+  <string name="action_chat">Chat</string>
+
+  <!-- Navigation -->
+  <string name="navigation_home">Home</string>
+  <string name="navigation_search">Search</string>
+  <string name="navigation_more">More</string>
+  <string name="navigation_favorites">Favorites</string>
+  <string name="navigation_personal">Personal</string>
+
+  <!-- Content Description -->
+  <string name="description_user_story">User story image</string>
+  <string name="description_user_profile">User profile image</string>
+  <string name="description_feed_actions">Feed actions</string>
+  <string name="description_feed_photo">Feed photo</string>
+</resources>
